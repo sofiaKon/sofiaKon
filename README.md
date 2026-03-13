@@ -11,7 +11,6 @@ I'm **Sofia Kondovina**
 -  Learning **Python, SQL, Data Science**
 -  Building **data analysis and dashboard projects**
 -  Interested in **AI, Machine Learning and Analytics**
--  Passionate about **dance (popping / animation)**
 
 ---
 
