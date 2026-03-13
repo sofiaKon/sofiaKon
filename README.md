@@ -33,7 +33,6 @@ Git • Docker • Linux • VS Code
 
 
 ## 🌐 Connect with me
-
-GitHub: https://github.com/yourusername  
+ 
 E-mail: kondovinasofa@gmail.com
 
