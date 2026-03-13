@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sofiaKon/sofiaKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sofia Kondovina**  
+ Big Data student |  Data Analyst |  Python & SQL learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+-  Currently studying **Big Data and Data Analytics**
+-  Learning **Python, SQL, Data Science**
+-  Building **data analysis and dashboard projects**
+-  Interested in **AI, Machine Learning and Analytics**
+-  Passionate about **dance (popping / animation)**
+
+---
+
+##  Tech Stack
+
+ Programming  
+Python • SQL • Java • HTML  
+
+ Data Analysis  
+Pandas • NumPy • Tableau • Power BI  
+
+ Databases  
+MySQL • PostgreSQL • Oracle  
+
+ Tools  
+Git • Docker • Linux • VS Code
+
+---
+
+
+## 🌐 Connect with me
+
+GitHub: https://github.com/yourusername  
+E-mail: kondovinasofa@gmail.com
+
