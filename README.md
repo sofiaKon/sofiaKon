@@ -16,17 +16,23 @@ I'm **Sofia Kondovina**
 
 ##  Tech Stack
 
- Programming  
-Python • SQL • Java • HTML  
+Programming
+Python • SQL • Java • HTML/CSS
 
- Data Analysis  
-Pandas • NumPy • Tableau • Power BI  
+Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • Feature Engineering • Random Forest
 
- Databases  
-MySQL • PostgreSQL • Oracle  
+Data Visualization & BI
+Tableau • Power BI • Matplotlib
 
- Tools  
-Git • Docker • Linux • VS Code
+Databases
+SQLite • MySQL • PostgreSQL • Oracle
+
+Backend & Data Engineering
+FastAPI • REST API • ETL Pipeline • Data Preprocessing
+
+Tools
+Git • Docker • Linux • VS Code • Jupyter Notebook
 
 ---
 
